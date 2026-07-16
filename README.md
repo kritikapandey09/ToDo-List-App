@@ -1,5 +1,5 @@
 # 📝 To-Do List App
-
+This project was built to practice Python fundamentals including file handling, loops, conditional statements, and basic CRUD operations.
 A simple command-line To-Do List application built using Python.
 
 ## Features
