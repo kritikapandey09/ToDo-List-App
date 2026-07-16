@@ -15,6 +15,17 @@ A simple command-line To-Do List application built using Python.
 - Python
 - File Handling
 
+## Screenshots
+
+### Main Menu
+![Main Menu](images/screenshot1.png)
+
+### Adding a Task
+![Adding Task](images/screenshot2.png)
+
+### Viewing Tasks
+![Viewing Tasks](images/screenshot3.png)
+
 ## How to Run
 
 1. Clone the repository
